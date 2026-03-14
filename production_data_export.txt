@@ -1,0 +1,158 @@
+
+-- TABLE: sections
+id,name,description,sort_order,is_active,created_at
+6,ANDROID NON ROOT PANEL,This is None Root Android Antiban Panel.,2,t,2026-03-11 04:45:47.116252
+7,ANDROID ROOT PANEL,Only Work Rooted Phone.,3,t,2026-03-11 05:30:57.368806
+9,PUBG &  BGMI PANEL  ,"Level up your gaming experience with HACKS for iOS & Andriod – smooth, fast, and optimized for competitive gameplay.",4,t,2026-03-11 05:57:04.205448
+10,8 BALL POOL HACKES,This is help to win match. Autoplay game.,5,t,2026-03-11 06:16:02.563735
+5,FREE FIRE  iOS PANEL,This is one of the most Powerful ios panel in Free Fire ,1,t,2026-03-11 04:29:14.327846
+
+
+-- TABLE: panels
+id,section_id,name,description,image_url,platform,price_1day,price_7day,price_30day,price_60day,is_in_stock,is_active,sort_order,features,created_at,reseller_price_1day,reseller_price_7day,reseller_price_30day,reseller_price_60day,custom_prices,hidden_durations
+10,5,iOS CERTIFECATE,Certificate Validaty is 1 Year.But Day is  Warrenty 30 Day / 60 Day / 7 Day/ 1 Day,,ios,5.00,5.00,10.00,12.00,t,t,0,"E sign, G box, Scarlet, K sign, Feather",2026-03-11 04:41:27.845397,0.00,0.00,0.00,0.00,{},{}
+17,5,PROXY IOS PANEL,This panel injecte in wifi Method. No need ipa & File. ,,ios,5.00,10.00,20.00,35.00,t,t,0,"Aimbot, Antina Esp, Body Headshot, Drag Headshot, No Recoail ",2026-03-11 05:29:13.847637,0.00,0.00,0.00,0.00,{},{}
+18,7,Drip Client Root ,Work on Virtual & Root Devices. Antiban & Safe.,,android,2.00,6.00,12.00,22.00,t,t,0,"Aimsilent, Aimbot, Aim megnet, Aimkill, Autofire, Esp, Ghost, Speed, Cs / Br Working ",2026-03-11 05:35:29.167695,0.00,0.00,0.00,0.00,{},{}
+12,6,HG CHEAT APKMOD,Directly Works on you'r Phone - No Virtual & Root Needed. Antiban & Safe.,,android,1.50,5.00,10.00,20.00,t,t,0,"Aim silent, Headshort Hack, Aim Visible, Speed Hack, Ghost Mode, Esp Line Location,  Cs/Br Working",2026-03-11 04:59:47.4574,0.00,0.00,0.00,0.00,{},{}
+13,6,PATOTEAM APKMOD,Directly Works on you'r Phone - No Virtual & Root Needed. Antiban & Safe.,,android,2.00,7.00,15.00,30.00,t,t,0,"Aim silent, Headshort Hack, Aim Visible, Speed Hack, Ghost Mode, Esp Line Location,  Cs/Br Working",2026-03-11 05:04:54.364627,0.00,0.00,0.00,0.00,{},{}
+9,5,FLUORITE IOS PANEL,"Level up your gaming experience with Fluorite  for iOS – smooth, fast, and optimized for competitive gameplay.",,ios,5.00,15.00,25.00,50.00,t,t,0,"Aim silent, Aimbot, Esp, Recoail, Autofire,Back jump, StreamMod",2026-03-11 04:33:09.460458,0.00,0.00,0.00,0.00,{},{}
+14,5,FLUCK V2,iOS Brutal Aimkill Antiban Panel.,,ios,3.00,8.00,16.00,30.00,t,t,0,"Aim Silent, Aimbot, Esp Location, Aimkill, Aimkill v2, Telekill, Teleport, Fly, Autofire,No Recoail, Ai kill,Speed,Ghost,Stream Mod,",2026-03-11 05:11:37.116604,0.00,0.00,0.00,0.00,{},{}
+15,5,MIGUL PRO,Antiban & Safe iOS Brutal Panel.,,ios,5.00,15.00,25.00,45.00,t,t,0,"Aim Silent, Aimbot, Aim Fov, Esp Location, Aimkill, Speed,Fast Switch, No Recoail, Fast Medkit,Fast Reload,Fly, Cover Enime Kill,Teleport 8m, Stream Mod",2026-03-11 05:17:34.359719,0.00,0.00,0.00,0.00,{},{}
+16,5,MIGUL LITE,Antiban & Safe iPhone Streamer Panel.,,ios,4.00,8.00,18.00,35.00,t,t,0,"Aim Silent, Aimbot, Aim Fov, Esp Location, No Recoail, Stream Mod",2026-03-11 05:19:57.697784,0.00,0.00,0.00,0.00,{},{}
+21,7,HAXX CREK PRO,Work on Virtual & Root Devices. Antiban & Safe.,,android,2.00,6.00,10.00,18.00,t,t,0,"Aimbot, Aim Fov, Head Shot Rate, Esp Location , Stream Mod",2026-03-11 05:46:58.744377,0.00,0.00,0.00,0.00,{},{}
+26,10,ZOLO CHEAT 8BALL,Antiban & Safe Andriod  Panel,,android,2.00,9.00,20.00,38.00,t,t,0,"Auto aim, Autoplay, Esp Line.",2026-03-11 06:22:00.823174,0.00,0.00,0.00,0.00,{},{}
+11,6,DRIP CLIENT  APKMOD,Directly Works on you'r Phone - No Virtual & Root Needed. Antiban & Safe.,,android,1.00,4.00,10.00,20.00,t,t,0,"Aimsilent, Aimbot, Aim megnet, Aimkill, Autofire, Esp, Ghost, Speed, Cs / Br Working ",2026-03-11 04:53:17.116045,0.00,0.00,0.00,0.00,{},{}
+19,7,HG CHEAT ROOT ,Work on Virtual & Root Devices. Antiban & Safe.,,android,1.50,6.00,12.00,22.00,t,t,0,"Aim silent, Headshort Hack, Aim Visible, Speed Hack, Ghost Mode, Esp Line Location,  Cs/Br Working",2026-03-11 05:40:28.242854,0.00,0.00,0.00,0.00,{},{}
+20,7,BR ROOT ,Work on Virtual & Root Devices. Antiban & Safe.,,android,2.00,5.00,10.00,18.00,t,t,0,"Aim silent, Headshort Hack, Aim Visible, Speed Hack, Ghost Mode, Esp Line Location,  Cs/Br Working",2026-03-11 05:42:08.776732,0.00,0.00,0.00,0.00,{},{}
+22,6,PRIME APKMOD,Directly Works on you'r Phone - No Virtual & Root Needed. Antiban & Safe,,android,1.00,5.00,14.00,25.00,t,t,0,"Aim silent, Headshort Hack, Aim Visible, Speed Hack, Ghost Mode, Esp Line Location,  Cs/Br Working",2026-03-11 05:51:38.455763,0.00,0.00,0.00,0.00,{},{}
+23,9,PUBG CLOUD IOS,Antiban & Safe iOS Panel.,,ios,5.00,16.00,40.00,75.00,t,t,0,"Auto Aim, Head Short, Esp Location, No Recoail, Stream Mod, Safe & Secure.",2026-03-11 06:00:48.456483,0.00,0.00,0.00,0.00,{},{}
+24,9,PUBG ZOLO CHEAT ,Antiban & Safe  Andriod  Panel.,,android,3.00,10.00,20.00,35.00,t,t,0,"Auto Aim, Head Short, Esp Location, No Recoail, Stream Mod, Safe & Secure.",2026-03-11 06:09:35.699554,0.00,0.00,0.00,0.00,{},{}
+25,10,WIZZARD 8BALL HACK,Antiban & Safe iOS Panel.,,ios,6.00,12.00,25.00,48.00,t,t,0,"Auto aim, Autoplay, Esp Line.",2026-03-11 06:20:06.81992,0.00,0.00,0.00,0.00,{},{}
+
+
+-- TABLE: panel_images
+id,panel_id,filename,original_name,sort_order,created_at,media_type
+3,9,1773292556829_bbfd101be864ebbc.mp4,WhatsApp Video 2026-03-12 at 11.14.27 AM.mp4,1,2026-03-12 05:15:57.227664,video
+
+
+-- TABLE: panel_files
+id,title,description,version,file_size,update_date,thumbnail,file_path,original_filename,created_at
+
+
+-- TABLE: settings
+id,key,value
+13,payment_method_paypal,false
+14,bkash_number,01639431907
+15,nagad_number,01823373439
+16,payment_method_bd,true
+17,particle_effect,stars
+18,banner_data,"{""enabled"":true,""type"":""discount"",""title"":""WELCOME OFFER"",""text"":""10% Discount For Members, Use Code WELCOME10"",""color"":""""}"
+19,telegram_reseller_link,https://t.me/cheatios9880
+20,reseller_key_price_1day,3
+3143,payment_method_binance,true
+3198,binance_uid,858249871
+6,payment_method_upi,false
+7,payment_method_crypto,true
+2,upi_id,yourupi@bank
+8,crypto_btc_address,1ARAwi8uGqdvD5zgoL7W24bCpHUd3TELvN
+9,crypto_usdt_trc20_address,TSAuqqtVf4QNKoFbys3F4UjmbafEDT7nQp
+10,crypto_usdt_erc20_address,0x71462d44eccb1593cfe9819cff3120b212536245
+11,crypto_usdt_bep20_address,0x71462d44eccb1593cfe9819cff3120b212536245
+1,store_name,ACI STORE
+3,store_description,Premium FF Panels for iOS & Android
+4,announcement,WELCOME TO ACI STORE
+5,telegram_support,https://t.me/shariyan221
+21,reseller_key_price_3day,7
+22,reseller_key_price_7day,12
+23,reseller_key_price_14day,20
+24,reseller_key_price_30day,35
+169,theme_color,#3b82f6
+1904,whatsapp_support,https://wa.me/message/IF6FUHVR7D2KB1
+12,paypal_id,
+
+
+-- TABLE: users
+id,username,email,password,telegram_username,is_admin,created_at
+1,Shariyan1,admin@ffpanel.com,$2b$10$bFznz/pgfnOMPfUD0sbCH.E8cC2y0dJeidduFXecOLtwNjJR/6XoW,,t,2026-03-08 06:16:09.094719
+2,bhavisss,bhavisluffy@gmail.com,$2b$10$jckEE.RVlKEXu7zUoeElCewRtVDxJFIoisrIkMwXJWrZ3xOiZWy.6,@bhavisss,f,2026-03-10 17:37:15.296434
+3,ibrahim,ibrahimprodan221@gmail.com,$2b$10$B1imP3LrLwR9eK9UOI.I/e6LODCY/GRUEwPJWeSziNswurP13D3Va,,f,2026-03-10 17:52:34.203305
+4,rakib,modbilla1@gmail.com,$2b$10$.9u0Ky//AP/e1Cq2Ybsvl.xay0Bn6QlyeIdU4.I4H60Jj0scc/rHm,,f,2026-03-11 03:48:17.246315
+5,rakib9,rakib988@gmail.com,$2b$10$d4dA7L/lJlRPBE4F3TozwekAU4xXGc8BJDpic75gMjGl93QtEnksy,,f,2026-03-11 04:02:24.453065
+6,rakib050,mdrakibulff050@gmail.com,$2b$10$.MBwIIti20ZuPx2TZymDJub3.MunjPLK3PWuAVGFoAFa0WpoisHsq,rakib050,f,2026-03-11 06:56:41.798499
+7,Dark,divyashekhar0@icloud.com,$2b$10$gLp0/LnFuZJeL45/bHeyWeqTsKPlaSImRtoxnJeDm9xOoQ7GxQIL2,Dark,f,2026-03-12 04:56:45.255446
+
+
+-- TABLE: admins
+id,username,password,role,permissions,created_at
+
+
+-- TABLE: promo_codes
+id,code,discount_percent,discount_amount,min_order,max_uses,used_count,is_active,expires_at,created_at
+1,WELCOME10,10,0.00,0.00,100,0,t,,2026-03-08 06:16:09.772918
+
+
+-- TABLE: reseller_packages
+id,name,amount_usd,price_usd,is_active,sort_order,created_at
+331,$10 Balance,10.00,10.00,t,1,2026-03-11 10:19:45.340169
+332,$25 Balance,25.00,25.00,t,2,2026-03-11 10:19:45.340169
+333,$50 Balance,50.00,50.00,t,3,2026-03-11 10:19:45.340169
+334,$100 Balance,100.00,100.00,t,4,2026-03-11 10:19:45.340169
+335,$200 Balance,200.00,200.00,t,5,2026-03-11 10:19:45.340169
+336,$500 Balance,500.00,500.00,t,6,2026-03-11 10:19:45.340169
+337,$1000 Balance,1000.00,1000.00,t,7,2026-03-11 10:19:45.340169
+
+
+-- TABLE: resellers
+id,username,password,display_name,status,wallet_balance,created_at
+1,rakib,$2b$10$1vXmf1d1fiSHc4ATJcLHG.AkjU5jk670vho94W8M.pzuetOBxCq/e,rakib,active,0.00,2026-03-11 03:25:13.275482
+
+
+-- TABLE: customer_key_pool
+id,panel_id,duration_days,key_value,status,assigned_order_id,created_at
+4,9,30,491CA6C852CC43A4A391,available,,2026-03-11 16:51:40.306664
+5,9,30,3A3FC0B509DD45BFB7E5,available,,2026-03-11 16:51:40.351765
+6,9,30,D723995ACBD041A1896D,available,,2026-03-11 16:51:40.395867
+7,9,30,F67BE05D121C4B6D8D19,available,,2026-03-11 16:51:40.440122
+8,9,30,EA538A8B7F5246A89185,available,,2026-03-11 16:51:40.484447
+9,9,30,8E2A5FDB20CB4BBCA064,available,,2026-03-11 16:51:40.528353
+10,9,30,03F79970D84547A289F6,available,,2026-03-11 16:51:40.885906
+11,9,30,174142A116174DE09358,available,,2026-03-11 16:51:40.929666
+12,9,30,EFE22BFFD3C74D1C8ACF,available,,2026-03-11 16:51:40.973439
+13,9,30,491CA6C852CC43A4A391,available,,2026-03-11 16:51:41.017456
+14,9,30,3A3FC0B509DD45BFB7E5,available,,2026-03-11 16:51:41.061852
+15,9,30,D723995ACBD041A1896D,available,,2026-03-11 16:51:41.106282
+16,9,30,F67BE05D121C4B6D8D19,available,,2026-03-11 16:51:41.149874
+17,9,30,EA538A8B7F5246A89185,available,,2026-03-11 16:51:41.193701
+18,9,30,8E2A5FDB20CB4BBCA064,available,,2026-03-11 16:51:41.237593
+1,9,30,03F79970D84547A289F6,sold,,2026-03-11 16:51:40.164212
+2,9,30,174142A116174DE09358,sold,,2026-03-11 16:51:40.216815
+3,9,30,EFE22BFFD3C74D1C8ACF,sold,10,2026-03-11 16:51:40.262716
+
+
+-- TABLE: reseller_key_pool
+id,duration_days,key_value,status,created_at,panel_id
+11,30,F1C63B0FEF2D4F2CB780,available,2026-03-11 09:13:12.661384,9
+12,30,661109D950594A948364,available,2026-03-11 09:13:12.705067,9
+
+
+-- TABLE: orders
+id,user_id,panel_id,panel_name,duration,price,discount,final_price,promo_code,utr_number,payment_method,status,customer_username,customer_telegram,customer_email,key_delivered,admin_notes,created_at,updated_at,delivered_files,payment_proof_image
+10,1,9,FLUORITE IOS PANEL,30day,25.00,0.00,25.00,,6u5ty0-,binance,delivered,Shariyan1,,admin@ffpanel.com,EFE22BFFD3C74D1C8ACF,,2026-03-13 07:01:24.85587,2026-03-13 07:01:57.153451,,
+
+
+-- TABLE: reseller_key_orders
+id,reseller_id,duration_days,price_usd,key_id,key_value,status,created_at,panel_id
+1,1,30,25.00,,E61726F9B86F4988B02E,delivered,2026-03-11 09:15:40.148265,9
+2,1,30,25.00,,8D8C0CFA76254A729103,delivered,2026-03-11 10:29:23.890789,9
+3,1,30,25.00,,3448BAF96C6A45568353,delivered,2026-03-11 12:09:31.010843,9
+4,1,30,25.00,,0103FCA7B9034CAB9EE8,delivered,2026-03-11 13:58:20.113854,9
+5,1,30,25.00,,1AD8705D1F7249E49BE3,delivered,2026-03-11 13:58:50.501287,9
+6,1,30,25.00,,589A70E015DB4F3BAE22,delivered,2026-03-11 15:20:37.794323,9
+7,1,30,25.00,,3F4C1A84D41D41319A1C,delivered,2026-03-11 15:22:35.612143,9
+8,1,30,25.00,,1F2F777B180C4D29B8CF,delivered,2026-03-11 15:25:21.412589,9
+9,1,30,25.00,,03E77E696F834D69904A,delivered,2026-03-11 15:25:22.489764,9
+
+
+-- TABLE: reseller_topups
+id,reseller_id,package_id,amount_usd,price_usd,payment_method,utr_number,status,created_at
+
